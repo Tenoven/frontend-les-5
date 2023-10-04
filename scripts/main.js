@@ -123,6 +123,7 @@ switch (secundaryUserInput) {
     default:
         console.error("onjuiste keuze, Probeer opnieuw door de pagina te verversen")
 }
+//
 
 
 
